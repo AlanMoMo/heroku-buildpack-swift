@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
 sudo apt-get install uuid-dev
-sudo apt-get install libssl-dev
+
