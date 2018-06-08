@@ -7,4 +7,4 @@
 # fi
 
 echo "-----> Running pre-compile hook"
-sudo apt-get install uuid-dev
+apt-get install uuid-dev
